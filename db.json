@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "id": "c1eacfe6-074d-41c7-8e96-54f290159ec9",
+      "name": "SAURABH MAROTRAO BAND",
+      "email": "hii1@gmail.com"
+    },
+    {
+      "id": "b2b4b92c-b40e-4b44-ac99-f93e45eaa653",
+      "name": "monday",
+      "email": "monday@gmail.com"
+    },
+    {
+      "id": "79234931-3cec-4e22-bbc1-03895a22b527",
+      "name": "Saurabh",
+      "email": "ch91@gmail.com"
+    },
+    {
+      "id": "2f12e342-d68f-43b2-aa44-1c6ce398d3d1",
+      "name": "dipesh",
+      "email": "dipesh@gmail.com"
+    },
+    {
+      "id": "c07bc618-13e9-4e2c-8034-2fc6d457660a",
+      "name": "NYC",
+      "email": "nyc12@gmail.com"
+    },
+    {
+      "id": "c3903588-a9c6-41c7-81d9-c7c568008ac9",
+      "name": "awesome",
+      "email": "awesome@gmail.com"
+    },
+    {
+      "id": "899c8eb8-6472-4db5-b8b7-52a12a829de2",
+      "name": "04-04-2024",
+      "email": "today@gmail.com"
+    }
+  ]
+}
